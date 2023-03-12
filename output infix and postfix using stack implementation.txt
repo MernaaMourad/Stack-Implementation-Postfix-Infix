@@ -1,0 +1,17 @@
+Input (infix):Enter an expression you want to evaluate or Ctrl+Z to exit:6 + 5
+Postfix : 6 5 +
+Result :11.000000
+
+Enter an expression you want to evaluate or Ctrl+Z to exit:9 - 8
+Postfix : 9 8 -
+Result :1.000000
+
+Enter an expression you want to evaluate or Ctrl+Z to exit:3 - 4
+Postfix : 3 4 -
+Result :-1.000000
+
+Enter an expression you want to evaluate or Ctrl+Z to exit:3 * 8
+Postfix : 3 8 *
+Result :24.000000
+
+Enter an expression you want to evaluate or Ctrl+Z to exit:

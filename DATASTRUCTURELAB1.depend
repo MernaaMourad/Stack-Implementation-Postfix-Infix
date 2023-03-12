@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583753602 source:d:\merna\data structure 1\datastructurelab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
